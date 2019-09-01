@@ -1,0 +1,5 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç–åþ8ª‰ÍœÎ-
+§%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8ª‰ÍœÎ-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( ßø®8ª‰ÍœÎ-
